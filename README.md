@@ -1,6 +1,6 @@
 # inventory_Management_System
 
-This project utilizes Java and JavaFX to create an inventory management system. Key features of the application include several different screens which facilitate adding, deleting, and modifying parts and products. The projects uses observable list arrays to store the application data and displays the inventroy information through FXML tableviews. Products have the capability to associate and remove relevant parts for inventory management. The program also features logical error checks that will display as error pop ups and prevent the user from saving incprrect data. 
+This project utilizes Java and JavaFX to create an inventory management system. Key features of the application include several different screens which facilitate adding, deleting, and modifying parts and products. The project uses observable list arrays to store the application data and displays the inventory information through FXML tableviews. Products have the capability to associate and remove relevant parts for inventory management. The program also features logical error checks that will display as error pop ups and prevent the user from saving incprrect data. 
 
 
 See below for a project scenario:
